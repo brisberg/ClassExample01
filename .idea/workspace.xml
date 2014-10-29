@@ -28,10 +28,39 @@
       <file leaf-file-name="form1.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/form1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44894367" vertical-offset="0" max-vertical-offset="568">
-              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.77816904" vertical-offset="0" max-vertical-offset="663">
+              <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
               <folding>
-                <element signature="e#6#91#0#PHP" expanded="true" />
+                <element signature="e#39#124#0#PHP" expanded="true" />
+                <marker date="1414626166317" expanded="true" signature="140:158" placeholder="SELECT * FRO..year..." />
+                <marker date="1414626166317" expanded="true" signature="323:758" placeholder="..." />
+                <marker date="1414626166317" expanded="true" signature="330:750" placeholder="..." />
+                <marker date="1414626166317" expanded="true" signature="380:742" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addcar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addcar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="510">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="e#39#124#0#PHP" expanded="true" />
+                <marker date="1414624936908" expanded="true" signature="217:295" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_connect.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_connect.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="357">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#7#50#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,6 +76,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/addcar.php" />
         <option value="$PROJECT_DIR$/form1.php" />
       </list>
     </option>
@@ -190,12 +220,37 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#50#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addcar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="510">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#39#124#0#PHP" expanded="true" />
+            <marker date="1414624936908" expanded="true" signature="217:295" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/form1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44894367" vertical-offset="0" max-vertical-offset="568">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.77816904" vertical-offset="0" max-vertical-offset="663">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
           <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="e#39#124#0#PHP" expanded="true" />
+            <marker date="1414626166317" expanded="true" signature="140:158" placeholder="SELECT * FRO..year..." />
+            <marker date="1414626166317" expanded="true" signature="323:758" placeholder="..." />
+            <marker date="1414626166317" expanded="true" signature="330:750" placeholder="..." />
+            <marker date="1414626166317" expanded="true" signature="380:742" placeholder="..." />
           </folding>
         </state>
       </provider>
