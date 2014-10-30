@@ -25,30 +25,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="form1.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="form1.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/form1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6109155" vertical-offset="350" max-vertical-offset="1003">
-              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+            <state vertical-scroll-proportion="-2.8846154" vertical-offset="350" max-vertical-offset="1003">
+              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
               <folding>
                 <element signature="e#39#124#0#PHP" expanded="true" />
-                <marker date="1414628340794" expanded="true" signature="140:158" placeholder="SELECT * FRO..year..." />
-                <marker date="1414628340794" expanded="true" signature="329:1407" placeholder="..." />
-                <marker date="1414628340794" expanded="true" signature="852:1399" placeholder="..." />
-                <marker date="1414628340794" expanded="true" signature="933:1391" placeholder="..." />
+                <marker date="1414628681586" expanded="true" signature="140:158" placeholder="SELECT * FRO..year..." />
+                <marker date="1414628681586" expanded="true" signature="329:1406" placeholder="..." />
+                <marker date="1414628681586" expanded="true" signature="851:1398" placeholder="..." />
+                <marker date="1414628681586" expanded="true" signature="932:1390" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addcar.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="addcar.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/addcar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="510">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.44894367" vertical-offset="0" max-vertical-offset="646">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
               <folding>
                 <element signature="e#39#124#0#PHP" expanded="true" />
-                <marker date="1414624936908" expanded="true" signature="217:295" placeholder="INSERT INTO ..." />
+                <marker date="1414628746772" expanded="true" signature="314:392" placeholder="INSERT INTO ..." />
               </folding>
             </state>
           </provider>
@@ -76,8 +76,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/addcar.php" />
         <option value="$PROJECT_DIR$/form1.php" />
+        <option value="$PROJECT_DIR$/addcar.php" />
       </list>
     </option>
   </component>
@@ -230,27 +230,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/addcar.php">
+    <entry file="file://$PROJECT_DIR$/form1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="510">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.8846154" vertical-offset="350" max-vertical-offset="1003">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
           <folding>
             <element signature="e#39#124#0#PHP" expanded="true" />
-            <marker date="1414624936908" expanded="true" signature="217:295" placeholder="INSERT INTO ..." />
+            <marker date="1414628681586" expanded="true" signature="140:158" placeholder="SELECT * FRO..year..." />
+            <marker date="1414628681586" expanded="true" signature="329:1406" placeholder="..." />
+            <marker date="1414628681586" expanded="true" signature="851:1398" placeholder="..." />
+            <marker date="1414628681586" expanded="true" signature="932:1390" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/form1.php">
+    <entry file="file://$PROJECT_DIR$/addcar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6109155" vertical-offset="350" max-vertical-offset="1003">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.44894367" vertical-offset="0" max-vertical-offset="646">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
           <folding>
             <element signature="e#39#124#0#PHP" expanded="true" />
-            <marker date="1414628340794" expanded="true" signature="140:158" placeholder="SELECT * FRO..year..." />
-            <marker date="1414628340794" expanded="true" signature="329:1407" placeholder="..." />
-            <marker date="1414628340794" expanded="true" signature="852:1399" placeholder="..." />
-            <marker date="1414628340794" expanded="true" signature="933:1391" placeholder="..." />
+            <marker date="1414628746772" expanded="true" signature="314:392" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>

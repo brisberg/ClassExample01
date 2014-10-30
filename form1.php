@@ -23,7 +23,7 @@ SQL;
         function doValidate() {
             // Validate the form data
             mileage = document.f1.mileage.value;
-            if (isNaN(mileage) || mileage <= 0) {
+            if (isNaN(mileage) || mileage < 0) {
                 // Error mileage is invalid;
                 return false;
             }

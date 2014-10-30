@@ -11,6 +11,14 @@ $vin = $_POST['vin'];
 $year = $_POST['year'];
 $mileage = $_POST['mileage'];
 
+//Server side input validation
+if ($mileage < 0) {
+    exit();
+}
+if ($year < 1) {
+    exit();
+}
+
 $sql = <<<SQL
 INSERT INTO car_info (vin, year, mileage)
 VALUES ('$vin', '$year', '$mileage');
