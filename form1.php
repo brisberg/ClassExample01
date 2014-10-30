@@ -27,14 +27,21 @@ SQL;
                 // Error mileage is invalid;
                 return false;
             }
+
+            year = document.f1.year.selectedIndex;
+            if (year < 1) {
+                // Error, user did not select a valid year
+                return false;
+            }
         }
     </script>
 </head>
 <body>
 <form name="f1" mthod="Post" action="addcar.php" onSubmit="return doValidate()">
     <p>VIN: <input type="text" name="vin"/></p>
-    <select name=""year">
+    <select name="year">
         <option value="noSelect">Select a Year</option>
+        <option value=1991>1991</option>
     <?php
         while ($row = mysqli_fetch_array($results)) {
             echo '<option value="' . $row['year'] . '">' . $row['year']. "</option>";
